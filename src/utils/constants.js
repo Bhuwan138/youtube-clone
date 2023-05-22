@@ -16,7 +16,7 @@ export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
-  { name: 'JS Mastery', icon: <CodeIcon />, },
+  { name: 'Bhuwan Pandey', icon: <CodeIcon />, },
   { name: 'Coding', icon: <CodeIcon />, },
   { name: 'ReactJS', icon: <CodeIcon />, },
   { name: 'NextJS', icon: <CodeIcon />, },
@@ -35,8 +35,8 @@ export const categories = [
 ];
 
 export const demoThumbnailUrl = 'https://i.ibb.co/G2L2Gwp/API-Course.png';
-export const demoChannelUrl = '/channel/UCmXmlB4-HJytD7wek0Uo97A';
-export const demoVideoUrl = '/video/GDa8kZLNhJ4';
-export const demoChannelTitle = 'JavaScript Mastery';
-export const demoVideoTitle = 'Build and Deploy 5 JavaScript & React API Projects in 10 Hours - Full Course | RapidAPI';
-export const demoProfilePicture = 'http://dergipark.org.tr/assets/app/images/buddy_sample.png'
+export const demoChannelUrl = '/channel/UCaRYln1SevfrQFfuY_ma_og';
+export const demoVideoUrl = 'video/H-ExNmHo2xI';
+export const demoChannelTitle = 'Bhuwan Pandey';
+export const demoVideoTitle = 'YAMA BUDDHA- SAATHI [OFFICIAL MUSIC VIDEO]';
+export const demoProfilePicture = 'https://yt3.ggpht.com/ytc/AGIKgqNpv6KwX8B1tHc0CzEzQOxsVUBBf5P2RTSfuWnz18Y=s176-c-k-c0x00ffffff-no-rj'
